@@ -1,7 +1,15 @@
 
+import Main from "./main"
+
 
 export default ()=>{
 
-  return <div>Hellow World</div>
+  return <div>
+
+   <Main/>
+     
+  </div>
 
 }
+
+
